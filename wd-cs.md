@@ -3,24 +3,37 @@
 If you have any questions, be sure to check the [FAQ](./faq.md). In fact, before you even start anything, go read the FAQ.
 It has a plethora of hints, tips and answers to help you ensure you get the most out of this guide.
 
+## Tier 0 - Prep
+**Goal:** Be comfortable with git by midway through Tier 1, and comfortable with Precalculus by midway through Tier 2.
+_Anything in Tier 0 can be studied before beginning Tier 1, or alongside the rest of the guide as you progress through the other Tiers._
+* [ ]  Book: [Precalculus](https://openstax.org/details/books/precalculus) or Course: [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) or [Khan Academy](https://www.khanacademy.org/math/precalculus) or thorough knowledge of Precalculus
+* [ ]  Course: [Try Git](https://try.github.io/levels/1/challenges/1) and/or How to not f-up your local files with Git [part1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c), [part2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a) and [part 3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)
+* [ ]  Project: [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep) - sign up for this now and work through it alongside the rest of the guide.
+
+
 ## Tier 1 - get started
 
 * [ ] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 * [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
-* [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 * [ ] Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+* [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
+* [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 * [ ] Project: Portfolio from the frontend section of FCC
+* [ ]  Project: [CSS Zen Garden](http://www.csszengarden.com/) - implement your own CSS design for the competition
 * [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 * [ ] Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
+* [ ] Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 * [ ] Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 * [ ] Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 * [ ] Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [ ] Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
 * [ ] Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
+* [ ] Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
 * [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
 * [ ] Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read)
 * [ ] Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
 * [ ] Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
+* [ ]  Project: [100 Days of CSS](https://100dayscss.com/), scroll to the bottom of that page, beginning with #001, recreate the images, in CodePen. Start the first one now and set a goal of finishing as many as you can by the end of Tier 3. (Intent: Build a presence on CodePen as a proficient HTML/(S)CSS developer to add another online body of work alongside your growing GitHub profile.)
 * [ ] Project: Build an online Towers of Hanoi solver that accepts a tower height between 5 and 10, and then displays a graphical (animated) solution, iteratively moving each piece until the puzzle is solved
 * [ ] Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 
@@ -37,6 +50,14 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Project: Read up on [Gulp](http://gulpjs.com/) - try to incorporate it into your workflow if you aren't using it regularly already
 * [ ] Project: Read up on [Mocha](https://mochajs.org/) - try to use it to test your JavaScript, every chance you get
 * [ ] Course - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)
+* [ ]  Course: [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
+* [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
+* [ ]  Project: Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React, Angular, or Vue
+* [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
+* [ ]  Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template 
+* [ ]  Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [ ]  Project: Revisit [CSS Zen Garden](http://www.csszengarden.com/) - and implement a new design 
+* [ ]  Project: Clone Twitter using Node.js on the backend, and your frontend framework/library of choice. Include all basic features: signup/login/logout, follow user, search, tweet, like/retweet, home page with stream of recent tweets.
 * [ ] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
 * [ ] Course: [Calculus One](https://www.coursera.org/learn/calculus1)
 * [ ] Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -62,7 +83,16 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Book: [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) - no longer available - use [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) instead.
 * [ ] Visit the Angular, React and Vue web pages, work through their tutorials, and get a sense of how they differ and which you prefer. From here on out, try to use one of them on each frontend where it makes sense to do it as a single page app. Lean towards your favorite on most projects, but use each of the other two in at least one project before finishing the guide.
 * [ ] Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
-* [ ] Project: Clone Reddit
+* [ ]  Project: Read [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) - and make two contributions to open source projects (of your choice) by the end of this Tier.
+* [ ]  Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
+* [ ]  Project: Finish all classic puzzles on [CodinGame](https://www.codingame.com/training) from easy through hard by the end of the Tier. 
+* [ ]  Project: Clone Medium. Include: create account, create post, publish post, edit post, add topic to post, follow user, follow topic, cheer for post, and home page with feed of recent posts, followed users, and followed topics.
+* [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
+* [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose. Consider building it as a Chrome Extension, Mobile, or Electron App 
+* [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
+* [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose. Consider building it as a Chrome Extension, Mobile, or Electron App 
+* [ ]  Project: Full stack project of your choice (ideas: clone Reddit or Netflix) - Consider building it as a Chrome Extension, Mobile, or Electron App.
+* [ ]  Project: Full stack project of your choice (make it grand) - or do a one month Speedrun of the FreeCodeCamp Projects. 
 * [ ] Project: Complete all ES6 Katas [here](http://es6katas.org/)
 * [ ] Course: [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
 * [ ] Project: Complete all Classic Puzzles - Hard on [CodinGame](https://www.codingame.com/) in JavaScript
